@@ -9,3 +9,5 @@ Using 'lyricWordFrequencyAPI.ipynb' you can choose a song and the program will l
 ## Wanhui Sheng --- Research records search with PubMed API (PubMed paper search.ipynb)
 The script in 'PubMed paper search.ipynb' searches for any records about "coronavirus" since 2018 through PubMed, and plots a year-counts bar graph.
 
+## Weihong Gu --- Makeup products search API
+Using 'ps4.ipynb' searches one brand of makeup products and gets products name and price of the brand, and plots the product name-price graph. 
